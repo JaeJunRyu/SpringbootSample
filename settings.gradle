@@ -1,0 +1,10 @@
+rootProject.name = 'springBootSample'
+include 'controllerTest'
+include 'aopTest'
+include 'jpaTest'
+include 'serviceTest'
+include 'securityTest'
+include 'exceptionTest'
+include 'filterTest'
+include 'interceptorTest'
+
