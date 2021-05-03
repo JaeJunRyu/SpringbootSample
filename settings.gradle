@@ -7,4 +7,7 @@ include 'securityTest'
 include 'exceptionTest'
 include 'filterTest'
 include 'interceptorTest'
+include 'thymeleafViewControllerTest'
+include 'mustacheViewControllerTest'
+include 'freemarkerViewControllerTest'
 
