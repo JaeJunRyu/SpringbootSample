@@ -10,4 +10,6 @@ include 'interceptorTest'
 include 'webJarViewControllerTest'
 include 'mustacheViewControllerTest'
 include 'freemarkerViewControllerTest'
+include 'thymeleafViewControllerTest'
+include 'resourceTest'
 

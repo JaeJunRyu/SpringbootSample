@@ -1,0 +1,12 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <script th:src="${versionResourceResolver.getForLookupPath('/resource/test.js')}" ></script>
+
+    <script th:src="@{'/resource/test2.js'}"></script>
+</head>
+<body>
+<div>
+    test
+</div>
+</body>
+</html>
